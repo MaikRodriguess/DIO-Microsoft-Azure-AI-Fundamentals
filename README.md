@@ -26,4 +26,4 @@ Destaque o seu perfil para ser encontrado por recrutadores de grandes empresas a
 
 **Ranking:** Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
-<img align="center" width="150" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/e16a6dbd-7674-4592-a389-df8ad5802028">
+<img align="right" width="150" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/e16a6dbd-7674-4592-a389-df8ad5802028">
