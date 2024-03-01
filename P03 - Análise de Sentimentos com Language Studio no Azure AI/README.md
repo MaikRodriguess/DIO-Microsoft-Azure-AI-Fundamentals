@@ -20,19 +20,21 @@ O objetivo principal deste projeto é explorar os recursos do language studio pa
 
 **Document sentiment**
 
-<img width="300" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/4e510b29-d35a-4fca-8cbf-4cc492d6700d">
+<img width="300" alt="Captura de tela 2024-02-13 123935" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/ab05c044-ce55-4c11-a817-c8033b7ae55f">
 
 Fonte: Azure AI Language 
 
 **Sentence 1**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/ced38bd0-53c0-47bc-a28d-7295cb86898d">
+<img width="500" alt="Captura de tela 2024-02-13 125810" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/9709660b-2ad6-4ebf-8c03-3692a198022c">
+
 
 Fonte: Azure AI Language 
 
 **Sentence 2**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/ab7f0556-ca34-45ec-933d-6f9a1ecb4042">
+
+<img width="500" alt="Captura de tela 2024-02-13 130201" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/92548971-5901-401c-9967-4eca1b9b3d52">
 
 Fonte: Azure AI Language 
 
@@ -41,44 +43,49 @@ Fonte: Azure AI Language
 
 **Document sentiment**
 
-<img width="300" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/7136f5ec-8622-4acc-8511-246da64e5551">
+<img width="300" alt="Captura de tela 2024-02-13 130506" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/fb91ad9a-016f-4674-9969-0a9fe61bdd79">
+
 
 Fonte: Azure AI Language 
 
 **Sentence 1**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/b142d301-ab60-44c9-8111-a73238f59fd9">
+<img width="500" alt="Captura de tela 2024-02-13 130532" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/656d3f45-f88d-45c9-a4ce-ff7d4a513140">
+
 
 Fonte: Azure AI Language 
 
 **Sentence 2**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/d1195c78-771c-4999-988d-0a35e4d9016a">
+<img width="500" alt="Captura de tela 2024-02-13 130613" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/4e74f8cc-e1ab-44af-a50b-76e87abee7a9">
+
 
 ### Analise de texto Mista 🤔
 > O texto de entrada abaixo é uma avaliação com 25% positiva, 14% Neutro e 61% Negativa. O documento foi classificado como Misto.
 
 **Document sentiment**
 
-<img width="300" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/5f682ea8-f8af-4b57-bee9-b69b12c2aaa2">
+<img width="300" alt="Captura de tela 2024-02-13 131811" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/550987a7-7345-4b9b-84cd-02d6d177d23e">
+
 
 Fonte: Azure AI Language 
 
 **Sentence 1**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/335e1881-e4e2-452f-944c-7eceaa35c1cb">
+<img width="500" alt="Captura de tela 2024-02-13 131905" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/56e07de6-4fad-4c06-b269-9084fdffcd98">
+
 
 Fonte: Azure AI Language 
 
 **Sentence 2**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/96117cc0-906a-48d8-a3c7-7d72e1f131bc">
+<img width="500" alt="Captura de tela 2024-02-13 131940" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/478e6e1a-20b7-4e86-b6be-9a411ca346ea">
 
 Fonte: Azure AI Language 
 
 **Sentence 3**
 
-<img width="500" alt="image" src="https://github.com/MaikRodriguess/dio-azure-language-project/assets/69226200/f06f32b3-bc94-43c7-8e1b-4a9e40c43599">
+<img width="500" alt="Captura de tela 2024-02-13 132015" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/dc31617a-5e83-46be-9f43-17aeb911aaa2">
 
 Fonte: Azure AI Language 
 
