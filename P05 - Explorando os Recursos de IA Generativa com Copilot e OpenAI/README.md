@@ -25,15 +25,35 @@ Utilize a [Documentação](https://microsoftlearning.github.io/mslearn-ai-fundam
 textos: 
 * Crie um recurso de serviços de IA do Azure
 * Conecte seu recurso de serviço de IA do Azure ao Vision Studio
+* 
+![1](https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/b38f1d64-4ffb-4759-b8e8-062e9064c009)
+..
 
-<img align="right" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/91203ef2-8fbe-4a53-921d-cf95801c8a92" width=""> 
+
+ * Depois de Criado o recurso, acesse o [Visual Studio](https://portal.vision.cognitive.azure.com) e irá chegar nessa página 👇🏽
+
+<img width="1080" alt="image" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/544213b3-9aec-473f-9380-170aa416d432">
+
+..
+
+* Realize esse passo para selecionar o recurso criado anteriormente 👇🏽
+<img width="1080" alt="image" src="https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/9378f4e2-ea7e-4a18-a9c5-29cff5640cba">
 
 
 ## Passo 2: Extraia texto de imagens no Vision Studio      
+- Siga os passos abaixo para anexar as imagens, e realizar o reconhecimento de textos.
+  
+  **Imagem 01:**
+![3](https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/348788db-0931-40ca-9129-f693628bd59d)
+..
 
+ **Imagem 02:** 
+ ![4](https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/9128157a-2e0d-493e-96f6-21d60fe1c33a)
+..
 
-
-## Observações finais:      
+ **Imagem 03:** 
+ 
+![5](https://github.com/MaikRodriguess/dio-microsoft-azure-ai-fundamentals/assets/69226200/6b001805-f8c2-44b5-8238-a47498141251)
 
 
 
