@@ -1,4 +1,9 @@
-# Projeto de Reconhecimento Facial e Transformação de Imagens em Dados no Azure ML
+
+<h1>
+  <a href="https://www.dio.me/">
+    <img align="center" width="60px" src="https://hermes.dio.me/lab_projects/badges/f38a62b8-2880-4fd2-82ff-ba263ce97cdb.png"></a>
+         Reconhecimento Facial e Transformação de Imagens em Dados no Azure ML
+</h1>
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido como parte do curso oferecido pela Digital Innovation One (DIO) sobre Reconhecimento Facial e Transformação de Imagens em Dados utilizando o Azure Machine Learning.
